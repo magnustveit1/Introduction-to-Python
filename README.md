@@ -18,7 +18,7 @@ Lastly, a virtual environment keeps things tidy, makes sure your main Python ins
 
     cd Introduction-to-Python
     conda env create -f 310environment.yml
-    conda activate 310environment
+    conda activate p310env
 
 In some cases:
 
