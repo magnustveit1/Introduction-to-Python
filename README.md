@@ -1,5 +1,5 @@
 # Introduction-to-Python
-This tutorial covers basic NumPy and Pandas libraries to support Civil Engineers and Hydrologists training with fundamental skills in Python.
+This tutorial covers basic Python, including NumPy and Pandas libraries to support Civil Engineers and Hydrologists training with fundamental skills in Python.
 The .ipynb files in this tutorial have been modified from other, with the original authors referenced the respective readme.md files.
 
 # Getting Started: 
@@ -24,4 +24,13 @@ In some cases:
 
     conda install ipykernel
     python -m ipykernel install --user --name=p310env
+
+## Lets get started!
+
+This repositories consists of three core Python topics:
+* [Introduction to Python](./Intro2Python/)
+* [NumPy](./NumPy/)
+* [Pandas](./Pandas/)
+
+Each section will help new users gain confidence in the fundamentals of Python, and prepare new developers for more complex modules and to start developing their own codebase. 
 
