@@ -12,24 +12,19 @@ Descriptions and exercises for each session are in the format of Jupyter Noteboo
 
 * [Module 1 - Data Types](./Module1-DataTypes.ipynb)
 
-* [Module 3 - Conditions](./Module2-Conditionals.ipynb)
+* [Module 2 - Conditions](./Module2-Conditionals.ipynb)
 
 * [Module 3 - Data Structures](./Module3-DataStructures.ipynb)
 
 * [Module 4 - Functions](./Module4-Functions.ipynb)
 
 
-### Beginner Tutorials
-
-* [Interactive Tutorial from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ### Videos
 
 * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
   * Videos with very clear and beginner friendly explanations of programming. Most of the videos focus on Python. Go to playlists and find the beginner tutorials to get started.
 
-* [Sentdex](https://www.youtube.com/user/sentdex)
-  * Videos on many topics ranging from beginner to advanced.
 
 ### Git and GitHub
 
@@ -44,7 +39,7 @@ Descriptions and exercises for each session are in the format of Jupyter Noteboo
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
 
-### Miscellaneous
+### Additional Resources
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
